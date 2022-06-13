@@ -11,7 +11,6 @@ Members:
 409840483 盧琦璟Chichi007x
 
 short description:
+make a easy website to upload the picture
 
-use linux to make a easy website game
 
-[linux game.docx](https://github.com/Yi-Neng-Chiang/LF/files/8749631/linux.game.docx)
