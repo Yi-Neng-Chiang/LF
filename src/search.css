@@ -1,0 +1,46 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    height: 70px;
+    width: 1000px;
+    margin: 50px 50px 50px 50px;
+}
+
+.parent {
+    position: relative;
+}
+.search {
+    width: 600px;
+    height: 40px;
+    border-radius: 18px;
+    outline: none;
+    border: 1px solid #ccc;
+    padding-left: 20px;
+    position: absolute;
+}
+
+
+.logo{
+    height:100px;
+    float:left;
+    margin: -30px 20px 25px 30px;
+}
+
+.info{
+    height:40px;
+    float:right;
+    margin:0px -170px 25px 30px;
+}
+.setting{
+    height:40px;
+    float:right;
+    margin:0px -110px 25px 30px;
+}
+
+.btn {
+    float:left;
+    margin:130px -255px auto auto;
+}
